@@ -1,0 +1,26 @@
+
+ h1, h2{ font-family: pattaya;}
+
+ p, ul {font-family:quicksand;}
+ 
+ h1 {text-align: center;}
+
+ h1, h2 { color: rgb(69, 69, 196);}
+
+ .Profile, .Contact, .Certifications, .Lenguagues, .Skills, .Experience {  
+     background-color: rgb(206, 206, 240);
+     padding: 15px;
+     border-radius: 25px;
+     margin-bottom: 15px;
+     text-align: left;
+      }
+.Imagen {text-align: center;}
+
+
+
+
+
+
+
+ 
+  
